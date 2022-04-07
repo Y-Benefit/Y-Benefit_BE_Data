@@ -1,0 +1,21 @@
+{
+  "name": "openapi-crawling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "iconv-lite": "^0.6.3",
+    "mysql2": "^2.3.3",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.1.1",
+    "sequelize": "^6.17.0",
+    "xml-js": "^1.6.11"
+  }
+}
