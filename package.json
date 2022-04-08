@@ -16,6 +16,7 @@
     "request": "^2.88.2",
     "selenium-webdriver": "^4.1.1",
     "sequelize": "^6.17.0",
+    "sequelize-cli": "^6.4.1",
     "xml-js": "^1.6.11"
   }
 }
