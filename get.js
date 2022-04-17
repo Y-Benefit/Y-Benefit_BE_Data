@@ -227,4 +227,4 @@ async function page(pageId) {
       console.log(error);
   });
 
-    } // page 함수
+    } // page함수
